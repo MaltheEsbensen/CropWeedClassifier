@@ -1,0 +1,10 @@
+# Paths to datasets
+train: /Users/mepercuter/Desktop/kaggle_crops/archive/yolo_data/train/images
+val: /Users/mepercuter/Desktop/kaggle_crops/archive/yolo_data/val/images
+test: /Users/mepercuter/Desktop/kaggle_crops/archive/yolo_data/test/images
+
+# Number of classes
+nc: 2
+
+# Class names
+names: ['Crop', 'Weed']
