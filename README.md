@@ -1,5 +1,5 @@
 # Yolo implementation (BBOX and classification)
-![image](https://github.com/user-attachments/assets/cf67fb2e-cd5b-45f4-9994-7ccadc8adad1)
+![image](https://github.com/user-attachments/assets/d1c77517-40ae-4756-a607-a148c1cf3a53)
 # Own CNN (Single-instance BBox and classification)
 ![image](https://github.com/user-attachments/assets/dc8e891b-ad6d-4395-bbc5-95a2ac48640d)
 # Grad-cam
